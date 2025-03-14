@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS & Editor specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Build files
+dist/
+build/
+*.cache
+coverage/
+
+# Backend-specific ignores
+/top10-reviews-backend/.env
+/top10-reviews-backend/node_modules/
+/top10-reviews-backend/dist/
+
+# Frontend-specific ignores
+/top10-reviews-frontend/node_modules/
+/top10-reviews-frontend/build/
+/top10-reviews-frontend/.env
