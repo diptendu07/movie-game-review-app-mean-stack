@@ -78,16 +78,11 @@ npm start   # Runs on http://localhost:3000
 ---
 
 ## **🖼️ Screenshots**
-🔹 **Homepage** - Displays top 10 movies & games  
-🔹 **Add New Movie/Game** - Submit reviews easily  
-🔹 **API Responses** - RESTful API for data access  
-
-![Home Page](image.png)
-![Movies Page (add section)](image-1.png)
-![Movies Page (list of movies section)](image-2.png)
-![Games Page (add games section)](image-3.png)
-![Games Page (list of games section)](image-4.png)
-*(Add screenshots here if needed)*  
+![Home Page](screenshots/image.png)
+![Movies Page (add section)](screenshots/image-1.png)
+![Movies Page (list of movies section)](screenshots/image-2.png)
+![Games Page (add games section)](screenshots/image-3.png)
+![Games Page (list of games section)](screenshots/image-4.png)
 
 ---
 
