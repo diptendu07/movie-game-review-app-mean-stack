@@ -1,4 +1,4 @@
-### 🎬🎮 Movie & Game Review App (MEAN Stack)
+### 🎬🎮 Movie & Game Review App (MERN Stack)
 🚀 **A Full-Stack Web Application to View & Add Movie & Video Game Reviews**  
 
 ![GitHub repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)  
@@ -71,6 +71,9 @@ npm start   # Runs on http://localhost:3000
 
 ---
 
+## ** Note**
+- **No matter how many Movies or Games you add in the List, viewers will only see the top 10 movies or games (based on ratings).**
+
 ## **🧠 Testing**
 - **Backend Tests (Jest & Supertest)**: `npm test` inside `top10-reviews-backend`
 - **Frontend Tests (React Testing Library)**: `npm test` inside `top10-reviews-frontend`
@@ -88,7 +91,7 @@ npm start   # Runs on http://localhost:3000
 
 ## **📩 Contact**
 🔹 **Author:** [Diptendu Lodh](https://github.com/diptendu07)  
-🔹 **GitHub Repo:** [movie-game-review-app-mean-stack](https://github.com/diptendu07/movie-game-review-app-mean-stack)  
+🔹 **GitHub Repo:** [movie-game-review-app-mean-stack](https://github.com/diptendu07/movie-game-review-app-mern-stack)  
 
 💡 **Feel free to fork, contribute, or report issues!** 😊  
 
